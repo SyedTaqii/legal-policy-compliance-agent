@@ -1,0 +1,77 @@
+[
+    {
+        "id": "R01",
+        "name": "Governing Law",
+        "desc": "Must specify which state/country laws apply."
+    },
+    {
+        "id": "R02",
+        "name": "Termination",
+        "desc": "Must allow termination for cause or breach."
+    },
+    {
+        "id": "R03",
+        "name": "Confidentiality",
+        "desc": "Must include a confidentiality/non-disclosure clause."
+    },
+    {
+        "id": "R04",
+        "name": "Indemnification",
+        "desc": "Must have an indemnification clause protecting parties."
+    },
+    {
+        "id": "R05",
+        "name": "Force Majeure",
+        "desc": "Must excuse performance due to unforeseen events (Acts of God)."
+    },
+    {
+        "id": "R06",
+        "name": "Assignment",
+        "desc": "Must specify if assignment to third parties is allowed/restricted."
+    },
+    {
+        "id": "R07",
+        "name": "Intellectual Property",
+        "desc": "Must clarify IP ownership (who owns created work)."
+    },
+    {
+        "id": "R08",
+        "name": "Dispute Resolution",
+        "desc": "Must specify arbitration, mediation, or litigation."
+    },
+    {
+        "id": "R09",
+        "name": "Payment Terms",
+        "desc": "Must specify when payments are due (e.g., Net 30)."
+    },
+    {
+        "id": "R10",
+        "name": "Liability Cap",
+        "desc": "Should limit liability to a specific amount."
+    },
+    {
+        "id": "R11",
+        "name": "Non-Compete",
+        "desc": "Check for restrictions on competing with the other party."
+    },
+    {
+        "id": "R12",
+        "name": "Non-Solicit",
+        "desc": "Restriction on poaching employees or customers."
+    },
+    {
+        "id": "R13",
+        "name": "Severability",
+        "desc": "If one part is invalid, the rest remains in effect."
+    },
+    {
+        "id": "R14",
+        "name": "Entire Agreement",
+        "desc": "This contract supersedes previous agreements."
+    },
+    {
+        "id": "R15",
+        "name": "Waiver",
+        "desc": "Failure to enforce a right does not waive that right."
+    }
+]
